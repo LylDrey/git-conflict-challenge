@@ -1,1 +1,1 @@
-la première ligne a été modifiée sur github comme demander dans le challenge.
+Ceci est la modification pour le challenge des conflits.
